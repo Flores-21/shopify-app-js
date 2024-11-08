@@ -1,5 +1,17 @@
 # @shopify/shopify-app-remix
 
+## 3.5.0
+
+### Minor Changes
+
+- 7147103: Add Scopes API documentation for Remix
+
+### Patch Changes
+
+- Updated dependencies [6910d3d]
+  - @shopify/shopify-api@11.6.1
+  - @shopify/shopify-app-session-storage@3.0.9
+
 ## 3.4.0
 
 ### Minor Changes
